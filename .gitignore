@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Linters & caches
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+
+# macOS & IDE
+.DS_Store
+.vscode/
+.idea/
